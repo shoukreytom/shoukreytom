@@ -1,4 +1,6 @@
 ### Hi there 👋
+  I'm **Abdul shakoor Abdul azeem Mosa Tom** know as **Shoukrey Tom**, from **Sudan**.
+  I'm Student of **Electronics Engineering**, and Back-End/Desktop-Apps developer.
 
 <!--
 **shoukreytom/shoukreytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
