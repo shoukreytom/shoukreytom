@@ -1,6 +1,6 @@
-### Hi there 👋
-  I'm **Abdul shakoor Abdul azeem Mosa Tom** know as **Shoukrey Tom**, from **Sudan**.
-  I'm Student of **Electronics Engineering**, and Back-End/Desktop-Apps developer.
+### Hi there
+  I'm Abdul Shakoor Abdul Azeem Mousa, I'm self-taught back-end, I used to develop web/desktop apps using Java and Python.
+  in the other-hand I work with c when it's neccessary.
 
 <!--
 **shoukreytom/shoukreytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Some statistics:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulshak1999&show_icons=true)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulshak1999&layout=compact)
