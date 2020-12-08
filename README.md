@@ -1,5 +1,5 @@
 ### Hi there
-  I'm Abdul Shakoor Abdul Azeem Mousa, I'm self-taught back-end, I used to develop web/desktop apps using Java and Python.
+  I'm self-taught back-end, I used to develop web/desktop apps using Java and Python.
   in the other-hand I work with c when it's neccessary.
 
 <!--
