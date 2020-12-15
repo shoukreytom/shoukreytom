@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ASHRAFOM GROUP
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Open Sources related to Django
+- 👯 I’m looking to collaborate on Python and Django projects
 - 📫 How to reach me: shoukreytom@pm.me
 <!--
 - 🤔 I’m looking for help with ...
