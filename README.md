@@ -1,6 +1,5 @@
 ### Hi there
-  I'm self-taught back-end, I used to develop web/desktop apps using Java and Python.
-  in the other-hand I work with c when it's neccessary.
+  I'm a passionate self-taught Software Developer, I have a solid experience in core technologies of C, Java and Python.
 
 <!--
 **shoukreytom/shoukreytom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ASHRAFOM GROUP
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Python and Django projects
-- 📫 How to reach me: shoukreytom@pm.me
+- 📫 How to reach me: Email: shoukreytom@pm.me, LinkedIn: https://linkedin.com/in/abdulshak1999/
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
