@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ASHRAFOM GROUP
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Python and Django projects
 - 📫 How to reach me: Email: shoukreytom@pm.me, LinkedIn: https://linkedin.com/in/abdulshak1999/
