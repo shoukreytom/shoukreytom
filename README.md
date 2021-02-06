@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## Profile status:
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulshak1999&label=Profile%20views&color=0e75b6&style=squre" height="30" alt=""/>
   <a href="hhttps://twitter.com/abdulshak1999"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/abdulshak1999?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/abdulshak1999"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/abdulshak1999?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-<!--   <a href="https://github.com/abdulshak1999"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=abdulshak1999&style=flat-square"/></a> -->
 </p>
 
 ## 🔥 My contribution streak
