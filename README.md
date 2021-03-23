@@ -1,7 +1,7 @@
 ### About Me:
-  I am a passionate self-taught Software Developer with a solid experience in core technologies of C, Java and Python.<br>
-  I develop both Desktop apps and Web apps, but my main focus is on Developing web apps specially Building REST APIS using Django & DRF (Django REST Framework).<br>
-  if you want to know more about me please free to check my linkedin profile: [@abdulshak1999](https://linkedin.com/in/abdulshak1999/)<br>
+  My name is Abdul Shakoor Abdul Azeem  Mousa but known as Shoukrey Tom, I am a passionate self-taught Software Developer with good experience in core technologies of C, Java, and Python.<br>
+  I develop both Desktop apps and Web apps, but my main focus is on Developing web apps especially Building REST APIS using Django & DRF (Django REST Framework).<br>
+  if you want to know more about me please feel free to check out my Linkedin profile: [@abdulshak1999](https://linkedin.com/in/abdulshak1999/)<br>
   Email: [shoukreytom01@gmail.com](mail:shoukreytom01@gmail.com)
 
 
