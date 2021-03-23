@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Python and Django projects
-- 📫 How to reach me: Email: shoukreytom@pm.me, LinkedIn: https://linkedin.com/in/abdulshak1999/
+- 📫 How to reach me: Email: shoukreytom01@gmail.com, LinkedIn: [@abdulshak1999](https://linkedin.com/in/abdulshak1999/)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
