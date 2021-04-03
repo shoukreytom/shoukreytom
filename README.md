@@ -1,24 +1,24 @@
 ### About Me:
   My name is Abdul Shakoor Abdul Azeem  Mousa but known as Shoukrey Tom, I am a passionate self-taught Software Developer with good experience in core technologies of C, Java, and Python.<br>
   I develop both Desktop apps and Web apps, but my main focus is on Developing web apps especially Building REST APIS using Django & DRF (Django REST Framework).<br>
-  if you want to know more about me please feel free to check out my Linkedin profile: [@abdulshak1999](https://linkedin.com/in/abdulshak1999/)<br>
+  if you want to know more about me please feel free to check out my Linkedin profile: [@shoukreytom](https://linkedin.com/in/abdulshak1999/)<br>
   Email: [shoukreytom01@gmail.com](mail:shoukreytom01@gmail.com)
 
 
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/abdulshak1999/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulshak1999#version3"/>
+  <a href="https://github.com/shoukreytom/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoukreytom#version3"/>
   </a>
 </p>
 
 
 ## Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulshak1999&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoukreytom&show_icons=true)
 
 ## Most Used Languages:
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulshak1999&layout=compact)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukreytom&layout=compact)
 
 ## Blog Posts:
 - [Steps to learn a programming in a best way](https://dev.to/abdulshakoor/steps-to-learn-a-programming-in-a-best-way-3p7k)
