@@ -18,10 +18,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoukreytom#version3"/>
   </a>
 </p>
-
-
-## Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoukreytom&show_icons=true)
-
-## Most Used Languages:
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukreytom&layout=compact)
