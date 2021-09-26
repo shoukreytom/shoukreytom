@@ -3,7 +3,7 @@
   
 ### Let's get in touch
 <div>
-  <a href="https://web.facebook.com/shoukreytom/" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/facebook.png"/></a>
+<!--   <a href="https://web.facebook.com/shoukreytom/" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/facebook.png"/></a> -->
   <a href="https://twitter.com/shoukreytom/" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter--v1.png"/></a>
   <a href="https://linkedin.com/in/shoukreytom/" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/linkedin.png"/></a>
 <!--   <a href="mailto:shoukreytom01@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail-new.png"/></a> -->
